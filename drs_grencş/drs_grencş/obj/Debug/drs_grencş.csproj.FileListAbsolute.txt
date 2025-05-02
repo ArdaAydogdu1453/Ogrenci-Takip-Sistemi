@@ -1,0 +1,13 @@
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\bin\Debug\drs_grencş.exe.config
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\bin\Debug\drs_grencş.exe
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\bin\Debug\drs_grencş.pdb
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.csproj.AssemblyReference.cache
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.Form1.resources
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.Properties.Resources.resources
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.csproj.GenerateResource.cache
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.csproj.CoreCompileInputs.cache
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.exe
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.pdb
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.Form2.resources
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.Form3.resources
+C:\Users\pc05\Desktop\drs_grencş\drs_grencş\obj\Debug\drs_grencş.Form4.resources
