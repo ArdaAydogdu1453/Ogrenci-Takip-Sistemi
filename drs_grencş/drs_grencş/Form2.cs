@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace drs_grencş
 {
@@ -75,5 +74,5 @@ namespace drs_grencş
             textBox3.Text = dataGridView1.Rows[e.RowIndex].Cells[2].Value.ToString();
             textBox4.Text = dataGridView1.Rows[e.RowIndex].Cells[3].Value.ToString();
         }
-    }
+    }   
 }
