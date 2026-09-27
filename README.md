@@ -79,7 +79,7 @@ Proje kök dizininde yer alan `ardaDB.bacpac` dosyası projenin veritabanı yede
 
 ### 2. Projeyi Açma ve Derleme
 1. Visual Studio'yu açın.
-2. `drs_grencş/drs_grencş.sln` çözüm (solution) dosyasını açın.
+2. `drs_grencş.sln` çözüm (solution) dosyasını açın.
 3. Gerekirse aşağıdaki bağlantı cümlesini kendi yerel SQL Server ortamınıza göre güncelleyin.
 4. **F5** veya **Start** tuşuna basarak projeyi derleyip çalıştırın.
 
@@ -102,17 +102,16 @@ Kendi bilgisayarınızda çalıştırmak için `Form1.cs`, `Form2.cs`, `Form3.cs
 
 ```text
 ├── ardaDB.bacpac                # SQL Server veritabanı yedeği (DACPAC/BACPAC)
+├── drs_grencş.sln               # Visual Studio Çözüm Dosyası
 ├── .gitignore                   # Visual Studio derleme & önbellek hariç tutma kuralları
 ├── README.md                    # Proje dokümantasyonu
-└── drs_grencş/
-    ├── drs_grencş.sln           # Visual Studio Çözüm Dosyası
-    └── drs_grencş/
-        ├── App.config           # Uygulama yapılandırma dosyası
-        ├── drs_grencş.csproj    # C# Proje dosyası
-        ├── Program.cs           # Giriş noktası (Main)
-        ├── Form1.cs             # Ana Menü
-        ├── Form2.cs             # Öğrenci İşlemleri Ekranı
-        ├── Form3.cs             # Ders İşlemleri Ekranı
-        ├── Form4.cs             # Öğrenci - Ders Kayıt ve Filtreleme Ekranı
-        └── Properties/          # Derleme ve kaynak ayarları
+└── drs_grencş/                  # C# Proje Klasörü
+    ├── App.config               # Uygulama yapılandırma dosyası
+    ├── drs_grencş.csproj        # C# Proje dosyası
+    ├── Program.cs               # Giriş noktası (Main)
+    ├── Form1.cs                 # Ana Menü
+    ├── Form2.cs                 # Öğrenci İşlemleri Ekranı
+    ├── Form3.cs                 # Ders İşlemleri Ekranı
+    ├── Form4.cs                 # Öğrenci - Ders Kayıt ve Filtreleme Ekranı
+    └── Properties/              # Derleme ve kaynak ayarları
 ```
